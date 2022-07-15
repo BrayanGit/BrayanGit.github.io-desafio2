@@ -1,0 +1,51 @@
+#cabecera {
+    border: 10px green solid;
+    
+    height: 250px;
+    background-image: url(../img/cactuslunar2.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding: 20px 10px 20px 10px;
+    margin: 10px 5px 10px 5px;
+}
+
+.seccion {
+    margin: 10px 5px 10px 5px;
+    border: 10px rgb(15, 99, 33) solid;
+    background-color: rgb(222, 236, 233);
+}
+
+.imagen {
+    height: 150px;
+    width: 150px;
+    margin: 10px 10px 10px 200px;
+    padding: 50px;
+}
+
+.titulo {
+    font-size: 70px;
+}
+
+.parrafo {
+    font-size: 20px;
+}
+
+.contenedor {
+    float: right;
+    margin: 70px 200px 10px 10px;
+    border: 10px;
+    padding: 10px;
+}
+
+.cuerpo {
+    background-color: rgb(193, 236, 229);
+}
+
+.footer {
+    border: 10px green solid;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(222, 236, 233);
+}
